@@ -1,2 +1,1 @@
-# firstpython
-This was  my first python project , with a README file.
+Python fundamentals project including exercises and beginner applications.
